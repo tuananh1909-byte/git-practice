@@ -1,2 +1,1 @@
-#Git Practice
-Gioi thieu: Toi ten la Le Quang Tuan Anh, MSSV 226366.
+Day la README tu nhanh conflict-demo.
